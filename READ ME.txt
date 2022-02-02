@@ -1,0 +1,14 @@
+Hey!
+This project has been a chance at exploring my interests, abilities and approach to computer science.
+It has allowed me to expand my logic and at the same time create something I absolutely loved.
+It may not be the best, but it has allowed me to widen my horizons much better than any other project
+from the internet could have. It has helped me better my skills at programming. I look forward to making more
+of fun projects like these.
+
+Some instructions:
+1) Right-Left keys to move right-left
+2) Spacebar to jump
+3) Don't touch the notes!
+4) There are 4 levels with increasing number of obstacles.
+5) Instructions will always be displayed alongside the gaming window in the python shell.
+6) To quit, click the X button on top right corner.
